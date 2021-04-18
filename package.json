@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-tutorial",
+  "version": "1.0.0",
+  "description": "This is a demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Alao Adewale N.",
+  "license": "ISC",
+  "dependencies": {
+    "JSON": "^1.0.0",
+    "axios": "^0.21.1",
+    "fetch": "^1.1.0",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
